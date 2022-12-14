@@ -1,5 +1,6 @@
 def prueba():
-    print('Hola')
+    mensaje = 'Gracias Luis'
+    print(mensaje)
 
 
 if __name__ == '__main__':
